@@ -9,6 +9,10 @@ body {
   background-color: bisque;
 }
 
+a {
+  color: chocolate;
+}
+
 h1 {
   color: red;
   font-weight: bold;

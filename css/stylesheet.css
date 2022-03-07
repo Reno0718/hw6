@@ -9,8 +9,12 @@ body {
   background-color: bisque;
 }
 
-a {
+a:link {
   color: chocolate;
+}
+
+a:visited {
+  color: purple;
 }
 
 h1 {

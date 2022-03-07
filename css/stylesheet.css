@@ -12,11 +12,15 @@ body {
 h1 {
   color: red;
   font-weight: bold;
+  font-size: 2rem;
 }
 
 h2 {
   color: orange;
   font-style: italic;
+  font-size: 2rem;
+  border: 1px lightblue solid;
+  padding: 15px;
 }
 
 h3 {
@@ -38,4 +42,6 @@ h3 {
   color: darkseagreen;
   font-weight: bold;
   font-size: 2rem;
+  border: 1px lightblue solid;
+  padding: 15px;
 }
